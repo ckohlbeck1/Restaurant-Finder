@@ -1,0 +1,10 @@
+﻿  Project3.cpp
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(127,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(140,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(188,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(190,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(345,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(393,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ckohl\source\repos\Project3\Project3\Project3.cpp(395,19): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\ckohl\source\repos\Project3\Debug\Project3.exe
